@@ -14,8 +14,9 @@ GET /ping:
 ```bash
 curl http://localhost:8080/ping
 ```
-```bash
 Output:
+```bash
+
 {"message":"pong"}
 ```
 POST /echo:
