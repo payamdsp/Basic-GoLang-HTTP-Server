@@ -13,7 +13,7 @@ go run main.go
 GET /ping:
 ```bash
 curl http://localhost:8080/ping
-```bash
+```
 ```bash
 Output:
 {"message":"pong"}
